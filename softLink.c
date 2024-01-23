@@ -1,4 +1,1 @@
-#include <stdio.h>
-int main(){
-    printf("Hello World\n");
-}
+/Users/sumithere/Desktop/coding/os/softLink.c
